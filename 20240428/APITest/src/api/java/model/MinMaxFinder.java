@@ -1,0 +1,29 @@
+package api.java.model;
+
+public class MinMaxFinder {
+	
+	private MinMaxFinder() {}
+	
+	// 정수배열의 최소값을 구하는 api
+	public static int findMin(int[] arr) {
+		int min = arr[0];
+		for (int i = 1; i < arr.length; i++) {
+			if (arr[i] < min) {
+				min = arr[i];
+			}
+		}
+		return min;
+	}
+
+	// 정수 배열의 최대값을 구하는 api
+	public static int findMax(int[] arr) {
+		int max = arr[0];
+		for (int i = 1; i < arr.length; i++) {
+			if (arr[i] > max) {
+				max = arr[i];
+			}
+		}
+		return max;
+	}
+	
+}
