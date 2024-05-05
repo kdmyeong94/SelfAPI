@@ -8,10 +8,13 @@ public class ObjectArray {
 	private int size = 0;
 	
 	// 생성 동작
+//	public ObjectArray() {
+//		elements = new Object[DEFAULT_CAPACITY]; // 5개 크기 배열
+//	}
+
 	public ObjectArray() {
-		elements = new Object[DEFAULT_CAPACITY]; // 5개 크기 배열
+		this(5); // this(5) : 생성자 안에서 다른 생성자를 호출할 때 사용
 	}
-	
 	public ObjectArray(int capacity) {
 		elements = new Object[capacity]; // 원하는 크기의 배열을 생성한다.
 	}

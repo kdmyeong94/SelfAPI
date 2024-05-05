@@ -1,6 +1,5 @@
 package api.java.model;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class IntArray {
