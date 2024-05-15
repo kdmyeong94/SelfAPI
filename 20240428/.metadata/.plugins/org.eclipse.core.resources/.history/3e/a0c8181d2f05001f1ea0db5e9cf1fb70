@@ -1,0 +1,16 @@
+package api.java.part1;
+
+import com.google.gson.Gson;
+
+import api.java.model.Person;
+
+public class GsonFromAPI {
+	public static void main(String[] args) {
+		String json = "{\"name\":\"John\",\"age\":30}";
+		
+		Gson gson = new Gson();
+		
+		Person person = new Person("", 0);
+		
+	}
+}

@@ -1,0 +1,8 @@
+package api.java.part1;
+
+public class MinMaxFinderTest {
+	public int findMin(int[] arr) {
+		int min = arr[0];
+
+	}
+}

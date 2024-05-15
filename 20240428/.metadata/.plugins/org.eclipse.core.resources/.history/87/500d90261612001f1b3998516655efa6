@@ -1,0 +1,7 @@
+package api.java.part1;
+
+public class InterfaceAPI {
+	public static void main(String[] args) {
+		
+	}
+}

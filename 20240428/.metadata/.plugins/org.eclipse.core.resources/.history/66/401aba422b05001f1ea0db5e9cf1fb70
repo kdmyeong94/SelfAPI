@@ -1,0 +1,24 @@
+package api.java.model;
+
+import java.util.Random;
+
+public class RandomAPI {
+	public static void main(String[] args) {
+		Random rand = new Random();
+		int[]arr = new int[6];
+		
+		int i = 0;
+		
+		while(i<6) {
+			int num = rand.nextInt(1)+1;
+			Boolean isDuplicate = false;
+			
+			
+			
+			i++;
+		}
+		
+		System.out.println(i);
+		
+	}
+}

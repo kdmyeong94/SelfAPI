@@ -1,0 +1,13 @@
+package api.java.model;
+
+import java.util.Random;
+
+public class RandomAPI {
+	public static void main(String[] args) {
+		Random rand = new Random();
+		int[]arr = new int[6];
+		
+		int i = 0;
+		
+	}
+}

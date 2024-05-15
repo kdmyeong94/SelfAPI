@@ -1,0 +1,6 @@
+package api.java.model2;
+
+public interface Connection {
+	//데이터베이스 연결동작
+	public void getConnection();
+}

@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+C:\Users\rlaeh\OneDrive\바탕 화면\동명\Study\Eclipse\Workspace\API\20240428\.metadata\.plugins\org.eclipse.jdt.core
+2243132364.index
+1865797976.index
+4117116387.index
+3066487785.index
+1871444703.index

@@ -1,0 +1,22 @@
+package api.java.model2;
+
+public class BB implements CC {
+	@Override
+	public void x() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void y() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void z() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
