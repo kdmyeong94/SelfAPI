@@ -1,4 +1,4 @@
-package api.java.part1;
+package api.java.course2.part2;
 
 public class IntegerStringTest {
 	public static void main(String[] args) {

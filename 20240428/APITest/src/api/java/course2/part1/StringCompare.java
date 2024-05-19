@@ -1,4 +1,4 @@
-package api.java.part1;
+package api.java.course2.part1;
 
 public class StringCompare {
 	public static void main(String[] args) {

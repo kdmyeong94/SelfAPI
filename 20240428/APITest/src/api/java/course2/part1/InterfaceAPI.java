@@ -1,4 +1,4 @@
-package api.java.part1;
+package api.java.course2.part1;
 
 import api.java.model2.BB;
 import api.java.model2.CC;
