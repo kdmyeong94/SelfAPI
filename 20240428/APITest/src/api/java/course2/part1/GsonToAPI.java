@@ -2,7 +2,7 @@ package api.java.course2.part1;
 
 import com.google.gson.Gson;
 
-import api.java.model.Person;
+import api.java.model2.Person;
 
 public class GsonToAPI {
 	public static void main(String[] args) {
